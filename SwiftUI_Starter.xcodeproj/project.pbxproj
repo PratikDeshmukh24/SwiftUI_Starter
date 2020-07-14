@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		10351ABB24BE48B300BA5D05 /* ImageContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10351ABA24BE48B300BA5D05 /* ImageContentView.swift */; };
 		10937FA724BC83B8003653ED /* SwiftUI_StarterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10937FA624BC83B8003653ED /* SwiftUI_StarterApp.swift */; };
 		10937FA924BC83B8003653ED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10937FA824BC83B8003653ED /* ContentView.swift */; };
 		10937FAB24BC83B9003653ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10937FAA24BC83B9003653ED /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		10351ABA24BE48B300BA5D05 /* ImageContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ImageContentView.swift; path = ../../../../Desktop/ImageContentView.swift; sourceTree = "<group>"; };
 		10937FA324BC83B8003653ED /* SwiftUI_Starter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_Starter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10937FA624BC83B8003653ED /* SwiftUI_StarterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_StarterApp.swift; sourceTree = "<group>"; };
 		10937FA824BC83B8003653ED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				10937FA624BC83B8003653ED /* SwiftUI_StarterApp.swift */,
 				10937FA824BC83B8003653ED /* ContentView.swift */,
+				10351ABA24BE48B300BA5D05 /* ImageContentView.swift */,
 				10937FAA24BC83B9003653ED /* Assets.xcassets */,
 				10937FAF24BC83B9003653ED /* Info.plist */,
 				10937FAC24BC83B9003653ED /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				10937FA924BC83B8003653ED /* ContentView.swift in Sources */,
 				10937FA724BC83B8003653ED /* SwiftUI_StarterApp.swift in Sources */,
+				10351ABB24BE48B300BA5D05 /* ImageContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
